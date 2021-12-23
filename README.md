@@ -1,2 +1,24 @@
-# endlesschanneloop
-A flask app that randomly plays through all videos of the youtube channel of your choice
+# endlesschannelloop
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
